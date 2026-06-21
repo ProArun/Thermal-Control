@@ -2,6 +2,10 @@
 
 A full-stack AOSP vendor component that exposes CPU temperature and fan control on a Raspberry Pi 5 running Android 15. Built entirely inside `vendor/myoem/` with no modifications to `frameworks/` or `device/`.
 
+## Demo
+
+[![ThermalControl Demo](https://img.youtube.com/vi/Q-p52Eb-RAE/0.jpg)](https://www.youtube.com/shorts/Q-p52Eb-RAE)
+
 ---
 
 ## Architecture
