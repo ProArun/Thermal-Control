@@ -4,7 +4,7 @@ A full-stack AOSP vendor component that exposes CPU temperature and fan control 
 
 ## Demo
 
-[![ThermalControl Demo](https://img.youtube.com/vi/Q-p52Eb-RAE/0.jpg)](https://www.youtube.com/watch?v=8gPH0uwyra8)
+[![ThermalControl Demo](https://img.youtube.com/vi/8gPH0uwyra8/0.jpg)](https://www.youtube.com/watch?v=8gPH0uwyra8)
 
 ---
 
