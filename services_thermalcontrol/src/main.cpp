@@ -1,7 +1,5 @@
 #define LOG_TAG "thermalcontrold"
 
-// Copyright (C) 2024 MyOEM
-// SPDX-License-Identifier: Apache-2.0
 
 #include <android/binder_manager.h>
 #include <android/binder_process.h>
